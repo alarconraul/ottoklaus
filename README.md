@@ -1,5 +1,10 @@
 # ottoklaus
 
+URL: https://desafio-7c0cd.web.app/login
+Firebase login
+user: hola@google.com
+pass: 123456
+
 ## Project setup
 ```
 npm install
